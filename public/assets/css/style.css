@@ -1,9 +1,9 @@
 .jumbotron {
-    background-image: url("../img/burgerpic2.png");
+    background-image: url("../img/burgerPic.jpg");
     background-repeat: no-repeat;
     background-position: right;
     background-color: light;
-    color: red;
+    color:blue;
     margin-top: 3%;
   }
   
@@ -12,7 +12,7 @@
   }
   
   #leftside {
-    background-color: orange;
+    background-color: green;
     color: maroon;
     text-align: center;
     font-size: 1.3em;
